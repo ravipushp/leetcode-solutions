@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ravipushp/leetcode-solutions/tree/master/0066-plus-one) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ravipushp/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ravipushp/leetcode-solutions/tree/master/0066-plus-one) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ravipushp/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ravipushp/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation

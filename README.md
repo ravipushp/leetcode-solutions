@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ravipushp/leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ravipushp/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravipushp/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ravipushp/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ravipushp/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravipushp/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ravipushp/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

@@ -1,12 +1,11 @@
 class Solution {
 public:
     vector<int> runningSum(vector<int>& nums) {
-        vector<int> answer;
-        int sum=0;
-        for(int i=0;i<nums.size();i++){
-            sum=sum+nums[i];
-            answer.push_back(sum);
+        vector<int> prefix(nums.size());
+        prefix[0]=nums[0];
+        for(int i=1;i<nums.size();i++){
+            prefix[i]=prefix[i-1]+nums[i];
         }
-        return answer;
+        return prefix;
     }
 };

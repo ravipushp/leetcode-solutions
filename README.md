@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravipushp/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ravipushp/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/ravipushp/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1991-find-the-middle-index-in-array](https://github.com/ravipushp/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ravipushp/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ravipushp/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ravipushp/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ravipushp/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/ravipushp/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/ravipushp/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/ravipushp/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Zero-Sum Game
 |  |
 | ------- |

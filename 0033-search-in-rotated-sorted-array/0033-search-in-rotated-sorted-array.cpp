@@ -11,8 +11,7 @@ public:
             if(nums[left]<=nums[mid]){
                 if(target>=nums[left] && target<nums[mid]){
                     right=mid-1;
-                }
-                else{
+                }else{
                     left=mid+1;
                 }
             }else{

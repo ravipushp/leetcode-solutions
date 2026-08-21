@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ravipushp/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/ravipushp/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ravipushp/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ravipushp/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ravipushp/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/ravipushp/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ravipushp/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ravipushp/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/ravipushp/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/ravipushp/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ravipushp/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## String
 |  |
 | ------- |

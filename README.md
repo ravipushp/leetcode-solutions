@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravipushp/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ravipushp/leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ravipushp/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/ravipushp/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/ravipushp/leetcode-solutions/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravipushp/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ravipushp/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/ravipushp/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [1207-unique-number-of-occurrences](https://github.com/ravipushp/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/ravipushp/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ravipushp/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |

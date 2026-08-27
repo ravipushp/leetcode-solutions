@@ -20,13 +20,13 @@ public:
         for(int i=0;i<ans.size();i++){
             result[ans[i]]++;
         }
-        vector<int> ravi;
+        vector<int> final;
         for(auto ct:result){
             if(ct.second>=2){
-                ravi.push_back(ct.first);
+                final.push_back(ct.first);
             }
         }
 
-        return ravi;
+        return final;
     }
 };

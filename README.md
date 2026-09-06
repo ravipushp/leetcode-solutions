@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ravipushp/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ravipushp/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ravipushp/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ravipushp/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ravipushp/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/ravipushp/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ravipushp/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ravipushp/leetcode-solutions/tree/master/1140-stone-game-ii) |
